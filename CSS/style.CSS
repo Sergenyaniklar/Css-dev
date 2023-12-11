@@ -1,0 +1,64 @@
+body {
+    background-color: linen;
+    margin: 0;
+    
+}
+h1 {
+    color: rgb(255, 255, 255);font-size: 40px;
+    
+}
+
+h2 { 
+    font-size: 36px;
+}
+
+header {
+    background-color: rgb(238, 57, 33);
+    color: rgb(238, 57, 33);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+  }
+  #logoText > img {
+    width: 50px;
+    height: 40px;
+    border-radius: 40%;
+    margin-right: 10px;
+  }
+  #logoText {
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+  }
+
+  img {
+    width: 700px; height: 350px;
+  }
+  nav {
+    margin-left: auto;
+  }
+
+  
+    footer {
+      background-color: rgb(238, 57, 33);
+      margin-left: -50px;
+       border-radius: 1%;
+       text-align: center;
+      padding: 20px;
+    }
+   nav>li>a {
+    
+      color: white;
+      margin-right: 40px;
+      text-decoration: none;
+    }
+
+    .text-renk {
+      color:rgb(26, 8, 2);
+    }
+  
+
+  
+  
