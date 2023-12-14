@@ -1,1 +1,5 @@
-
+![Makina1](https://github.com/Sergenyaniklar/Css-odev/assets/129132068/4c5df785-e361-4b3a-bd4c-ba101dd13009)
+![Makina2](https://github.com/Sergenyaniklar/Css-odev/assets/129132068/6937b994-8179-4e3b-bee6-5a89c38b5292)
+![Makina3](https://github.com/Sergenyaniklar/Css-odev/assets/129132068/20e46bb5-6088-49d6-b8b0-bf820118f370)
+![Makina4](https://github.com/Sergenyaniklar/Css-odev/assets/129132068/c2c579ee-92e7-44e2-bcd5-53a8deacfab2)
+![Makina5](https://github.com/Sergenyaniklar/Css-odev/assets/129132068/78027f4d-b2d1-4d5c-9902-b38b20caa474)
